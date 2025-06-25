@@ -4,5 +4,5 @@ fastapi>=0.100.0
 uvicorn[standard]>=0.20.0
 websockets>=10.0
 streamlit>=1.20.0
-# chainlit # Alternative to streamlit, can be added later if preferred
 python-dotenv>=1.0.0
+yagmail>=0.15.0 # Added for real email sending
